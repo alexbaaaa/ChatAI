@@ -1,0 +1,16 @@
+{
+  "name": "juegoadivinarservidor",
+  "version": "1.0.0",
+  "description": "Servidor nodejs juegoadivinar1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.10.0",
+    "ws": "^8.16.0"
+  }
+}
