@@ -1,2 +1,2 @@
 # ChatAI
-Prompt con chatGPT
+Aplicacion Web con nodejs y api chatgpt
